@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jferanmi
 - 👀 I’m interested in ...web 3 development
 - 🌱 I’m currently learning ...web 2 development
-- 💞️ I’m looking to collaborate on ... website optimization
+- 💞️ I’m looking to collaborate on ... web development
 - 📫 How to reach me ... jferanmi24@gmail.com
 
 <!---
